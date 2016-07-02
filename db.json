@@ -1,47 +1,18 @@
 {
   "todos": [
     {
-      "id": "5",
-      "isComplete": false
-    },
-    {
-      "id": "5",
-      "description": "turkey",
-      "isComplete": false
-    },
-    {
-      "id": "5",
-      "description": "probably program",
-      "isComplete": false
-    },
-    {
-      "id": "5",
-      "description": "buy a banana costume",
-      "isComplete": false
-    },
-    {
-      "id": "5",
-      "description": "decide if legos and roofing tacks feel the same on a barefoot",
-      "isComplete": false
-    },
-    {
-      "id": "a421ccdf-d056-43a9-bd62-a278d6d68ad1",
-      "description": "decide if legos and roofing tacks feel the same on a barefoot",
-      "isComplete": false
-    },
-    {
-      "id": "178b7624-c03f-4185-9446-4ef4bd349579",
-      "description": "purchase a watermelon",
-      "isComplete": false
-    },
-    {
-      "id": "a2096551-b3b1-4564-aa0e-13697c6e8d1f",
-      "description": "log in four more hours of work",
-      "isComplete": false
-    },
-    {
-      "id": "9cc6897f-cb06-4664-b00d-893b79db37ae",
+      "id": "f855dc4d-779f-4305-8b00-178ef72c7058",
       "description": "plan my 4th of july",
+      "isComplete": false
+    },
+    {
+      "id": "48c6518a-bb68-480b-80e7-740346fc583d",
+      "description": "go dancing",
+      "isComplete": false
+    },
+    {
+      "id": "7ee76721-4543-479b-83ca-99133d439e5c",
+      "description": "eat better",
       "isComplete": false
     }
   ]
