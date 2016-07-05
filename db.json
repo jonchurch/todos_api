@@ -1,11 +1,6 @@
 {
   "todos": [
     {
-      "id": "f855dc4d-779f-4305-8b00-178ef72c7058",
-      "description": "plan my 4th of july",
-      "isComplete": false
-    },
-    {
       "id": "48c6518a-bb68-480b-80e7-740346fc583d",
       "description": "go dancing",
       "isComplete": false
