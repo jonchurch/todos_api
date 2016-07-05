@@ -2,8 +2,8 @@
   "todos": [
     {
       "id": "48c6518a-bb68-480b-80e7-740346fc583d",
-      "description": "go dancing",
-      "isComplete": false
+      "description": "dance on the ceiling",
+      "isComplete": "false"
     },
     {
       "id": "7ee76721-4543-479b-83ca-99133d439e5c",
