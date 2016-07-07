@@ -1,9 +1,9 @@
 {
   "todos": [
     {
-      "id": "2558ad38-a1c6-44f5-890c-2521d81576d3",
-      "description": "take out the trash",
-      "isComplete": "true"
+      "id": "30ab192f-2b88-47a8-8234-98c436938b6b",
+      "description": "stuff and things",
+      "isComplete": false
     },
     {
       "id": "4a85d0f2-0032-4093-86bc-03f2fc4ced87",
