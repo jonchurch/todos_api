@@ -42,6 +42,7 @@ server.post('/todos', function(request, response){
 
 server.put('/todos/:id', function(request, response){
   var todo = new Todo(request.body.description, request.params.id);
+  console.log(request.body);
   todo.updateComplete(request.body.isComplete);
   var updatedTodo = db.get('todos')
                       .find({id: request.params.id})

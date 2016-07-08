@@ -8,6 +8,7 @@ function Todo(description, id){
 }
 
 Todo.prototype.updateComplete = function(value){
+	console.log('======Value is: ',value);
   if(value.toLowerCase() === 'true'){
     this.isComplete = true;
   } else {
